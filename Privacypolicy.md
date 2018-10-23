@@ -1,4 +1,4 @@
-Grab It! Privacy Policy
+# Grab It! Privacy Policy
 
 Effective date : Oct 22, 2018
 
