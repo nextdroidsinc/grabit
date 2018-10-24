@@ -17,4 +17,4 @@ Information collected by One Signal SDK listed on their website (https://onesign
 - IP address as well as system configuration information
 - Information associated with or related to devices, such as device type (e.g., mobile, tablet); type and version of operating system (e.g., Android, iOS); network provider; mobile browser (e.g. Safari, Chrome, etc.); language setting; time zone; and network status type (such as WiFi
 
-If you have questions or concerns about privacy policies, feel free to contact us at nextdroids.inc@gmail.c
+If you have questions or concerns about privacy policies, feel free to contact us at **nextdroids.inc@gmail.com**
